@@ -14,6 +14,8 @@ LinkedIn: [www.linkedin.com/in/cibellegodoy](http://www.linkedin.com/in/cibelleg
 
 E-mail: [cibellegodoylima@gmail.com](mailto:cibellegodoylima@gmail.com)
 
+![image](https://github.com/user-attachments/assets/cfce3017-753c-4f15-8f1e-225b42c371f8)
+
 
 
 <!---
