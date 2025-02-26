@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou @Cibelleeg
 
-![Olá!](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
 ### 🚀 Sobre mim
 
 Sou estudante de Ciência e Tecnologia, com foco em Engenharia da Computação na UNIFESP - SJC. Atuo em um projeto de extensão focado em desenvolvimento web e atualmente trabalho como estagiária em análise de dados na Quero Educação.
@@ -13,10 +11,6 @@ Me interesso por Ciência de Dados e Desenvolvimento de Software. Atualmente est
 ---
 
 ### 📫 Contato
-
-![LinkedIn](https://media.giphy.com/media/j5QcmXoFWp0kw/giphy.gif)
-
-![LinkedIn](https://media.giphy.com/media/j5QcmXoFWp0kw/giphy.gif)
 
 LinkedIn: [www.linkedin.com/in/cibellegodoy](http://www.linkedin.com/in/cibellegodoy)
 
