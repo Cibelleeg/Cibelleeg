@@ -6,8 +6,6 @@ Sou estudante de Ciência e Tecnologia, com foco em Engenharia da Computação n
 
 Me interesso por Ciência de Dados e Desenvolvimento de Software. Atualmente estou aprimorando meus conhecimentos sobre modelagem, análise e engenharia de dados.
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
 ---
 
 ### 📫 Contato
