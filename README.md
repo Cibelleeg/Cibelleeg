@@ -1,23 +1,31 @@
-# 👋 Olá, eu sou @Cibelleeg
+# 👋 Hello, I'm @Cibelleeg
+### 🚀 About Me
 
-### 🚀 Sobre mim
-
-Sou estudante de Ciência e Tecnologia, com foco em Engenharia da Computação na UNIFESP - SJC. Atuo em um projeto de extensão focado em desenvolvimento web e atualmente trabalho como estagiária em análise de dados na Quero Educação.
-
-Me interesso por Ciência de Dados e Desenvolvimento de Software. Atualmente estou aprimorando meus conhecimentos sobre modelagem, análise e engenharia de dados.
+I am a **Science and Technology** student with focus on **Computer Engineering** at **UNIFESP - SJC**.  
+I currently work as a **Data Analysis intern at Quero Educação** and participate in an **extension project focused on web development**.  
+I am passionate about **Data Science and Software Development**.  
+Currently, I am improving my knowledge in **data modeling, analysis, data engineering, and API management**.
 
 ---
 
-### 📫 Contato
+### 🛠️ Skills
 
-LinkedIn: [www.linkedin.com/in/cibellegodoy](http://www.linkedin.com/in/cibellegodoy)
+- 📊 **Data Analysis**: `PySpark` | `R` | `Pandas` | `SQL` | `Power BI`  
+- 🖥️ **Web Development**: `HTML` | `CSS` | `JavaScript` | `React`  
+- 🐍 **Programming Languages**: `Python` | `C`  
 
-E-mail: [cibellegodoylima@gmail.com](mailto:cibellegodoylima@gmail.com)
+---
 
-![GIF animado](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
+### 📫 Contact
+
+📩 **Email:** [cibellegodoylima@gmail.com](mailto:cibellegodoylima@gmail.com)  
+🔗 **LinkedIn:** [www.linkedin.com/in/cibellegodoy](http://www.linkedin.com/in/cibellegodoy)
+
+
 
 
 <!---
 Cibelleeg/Cibelleeg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
