@@ -1,18 +1,22 @@
 # 👋 Hello, I'm @Cibelleeg
 ### 🚀 About Me
 
-I am a **Science and Technology** student with focus on **Computer Engineering** at **UNIFESP - SJC**.  
-I currently work as a **Data Analysis intern at Quero Educação** and participate in an **extension project focused on web development**.  
-I am passionate about **Data Science and Software Development**.  
-Currently, I am improving my knowledge in **data modeling, analysis, data engineering, and API management**.
+### 🚀 About Me
+
+I'm a **Science and Technology** student, currently specializing in **Computer Engineering** at **UNIFESP - SJC**.
+
+I currently work as a **Software Developer**, where I keep building my experience in technology and problem-solving.
+
+My main interests are in **Data**, **Software Development**, and **Technology applied to real-world challenges**.  
+Right now, I’m deepening my knowledge in **data analysis, data engineering, data modeling, APIs, and software development**.
 
 ---
 
 ### 🛠️ Skills
 
-- 📊 **Data Analysis**: `PySpark` | `R` | `Pandas` | `SQL` | `Power BI`  
-- 🖥️ **Web Development**: `HTML` | `CSS` | `JavaScript` | `React`  
-- 🐍 **Programming Languages**: `Python` | `C`  
+- 📊 **Data & Analytics**: `PySpark` | `R` | `Pandas` | `SQL` | `Power BI`
+- 🌐 **Frontend Development**: `JavaScript` | `TypeScript` | `React`
+- 🐍 **Programming Languages**: `Python` | `C` | `Go`
 
 ---
 
