@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Cibelle 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A9A9F5&center=true&vCenter=true&width=435&lines=Software+Engineer;Backend+%7C+Frontend+%7C+Data;Go+%2B+React+%2B+SQL;Always+debugging+something" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=e074c4&center=true&vCenter=true&width=435&lines=Software+Engineer;Backend+%7C+Frontend+%7C+Data;Go+%2B+React+%2B+SQL;Always+debugging+something" alt="Typing SVG" />
 </p>
 
 <p align="center">
