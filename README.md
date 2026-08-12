@@ -15,7 +15,6 @@
 - 🎓 **Science & Technology** (focus on Computing) — UNIFESP SJC
 - 💻 Full stack: backend, frontend and data on the side
 - 🌱 Currently learning distributed systems & cloud infra
-- 🐛 Currently debugging something (statistically likely)
 
 ### 🛠️ Tech Stack
 
