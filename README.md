@@ -32,12 +32,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cibelleeg&theme=tokyonight" width="49%" alt="Cibelle's GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cibelleeg&theme=tokyonight" width="49%" alt="Cibelle's most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cibelleeg&theme=dracula" width="49%" alt="Cibelle's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cibelleeg&theme=dracula" width="49%" alt="Cibelle's most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cibelleeg&theme=tokyo-night&hide_border=true" width="90%" alt="Cibelle's contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cibelleeg&theme=dracula&hide_border=true" width="90%" alt="Cibelle's contribution graph" />
 </p>
 
 ### 📫 Let's Connect
