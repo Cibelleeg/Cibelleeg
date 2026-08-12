@@ -32,8 +32,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cibelleeg&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="Cibelle's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cibelleeg&layout=compact&theme=tokyonight&hide_border=true" width="37%" alt="Cibelle's most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cibelleeg&theme=tokyonight" width="49%" alt="Cibelle's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cibelleeg&theme=tokyonight" width="49%" alt="Cibelle's most used languages" />
 </p>
 
 <p align="center">
