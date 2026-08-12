@@ -32,12 +32,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cibelleeg&theme=dracula" width="45%" alt="Cibelle's GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cibelleeg&theme=dracula" width="45%" alt="Cibelle's most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cibelleeg&theme=dracula&title_color=FF79C6&text_color=F8F8F2&bg_color=282A36&border_color=44475A&icon_color=BD93F9&chart_color=BD93F9" width="45%" alt="Cibelle's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cibelleeg&theme=dracula&title_color=FF79C6&text_color=F8F8F2&bg_color=282A36&border_color=44475A&icon_color=BD93F9&chart_color=BD93F9" width="45%" alt="Cibelle's most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cibelleeg&theme=dracula&hide_border=true" width="90%" alt="Cibelle's contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cibelleeg&bg_color=282A36&color=F8F8F2&line=FF79C6&point=BD93F9&area=true&area_color=BD93F9&hide_border=true" width="90%" alt="Cibelle's contribution graph" />
 </p>
 
 ### 📫 Let's Connect
