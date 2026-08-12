@@ -32,8 +32,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cibelleeg&theme=dracula" width="49%" alt="Cibelle's GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cibelleeg&theme=dracula" width="49%" alt="Cibelle's most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cibelleeg&theme=dracula" width="45%" alt="Cibelle's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cibelleeg&theme=dracula" width="45%" alt="Cibelle's most used languages" />
 </p>
 
 <p align="center">
